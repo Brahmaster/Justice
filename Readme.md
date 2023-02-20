@@ -2,7 +2,7 @@
 
 By Gaurang
 
-## [Link for Project 1](https://thriving-jalebi-962803.netlify.app/https://thriving-jalebi-962803.netlify.app/) 
+## [Link for Project 1](https://thriving-jalebi-962803.netlify.app/) 
 
 ![project 1 completed](./thumbnail.png)
 
